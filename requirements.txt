@@ -9,7 +9,6 @@ torch
 torchvision
 opencv-python-headless
 mediapipe
-mediapipe==0.10.14
 Pillow
 streamlit-webrtc
 av
